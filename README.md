@@ -5,7 +5,7 @@ A modular, multi-effect sprite shader for Unity 6 URP.
 14 independent effects in a single-pass shader. Keyword-based compilation means disabled effects have zero GPU cost. Drop-in ready for any URP SpriteRenderer.
 
 
-![ScreenShot](https://github.com/berkencami/sprite-shader-internal/blob/main/gif.gif)
+![ScreenShot](https://github.com/berkencami/sprite-shaders/blob/main/gif.gif)
 
 ## Effects
 
